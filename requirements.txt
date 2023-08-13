@@ -6,3 +6,4 @@ optuna
 pandas-profiling
 shap
 mlflow
+xfeat
